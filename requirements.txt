@@ -1,0 +1,5 @@
+- Python
+- Requests
+- BeautifulSoup (bs4)
+- CSV
+- Git & GitHub
